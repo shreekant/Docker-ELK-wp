@@ -1,0 +1,13 @@
+---
+
+# US West (Oregon) Region
+ec2_region: us-west-2
+
+# Ubuntu Server 14.04 64-bit
+ami_id: ami-5e63d13e
+
+# Instance type
+instance_type: t2.micro
+
+# Key pair name
+key_name: wordpress instance

@@ -1,0 +1,10 @@
+*.pyc
+*.swp
+*.out
+*~
+*.pem
+*.html
+.#*
+*#
+aws-credentials.yml
+
