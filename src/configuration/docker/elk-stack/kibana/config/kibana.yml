@@ -18,3 +18,4 @@ kibana.index: ".kibana"
 # The default application to load.
 kibana.defaultAppId: "discover"
 
+verify_ssl: false
