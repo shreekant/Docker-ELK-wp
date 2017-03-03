@@ -10,4 +10,4 @@ ami_id: ami-5e63d13e
 instance_type: t2.micro
 
 # Key pair name
-key_name: wordpress instance
+key_name: docker-elk-wp
